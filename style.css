@@ -3,8 +3,6 @@ html {
   width: 100%;
 }
 
-
-
 table {
       border-collapse: collapse;
       width: 100%;
@@ -12,10 +10,9 @@ table {
   
     }
     
-    th, td {
+th, td {
       padding: 10px;
       text-align: center;
-      
     }
 
 .blue{
@@ -25,8 +22,7 @@ table {
 .red {
   background-color: red;
 }
-    
-    /* table header style */
+
     th {
       background-color: #333;
       color: white;
